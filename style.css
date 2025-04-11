@@ -1,6 +1,6 @@
 body {
     background: rgb(10, 208, 185)06;
-    color: rgb(165, 26, 26);
+    color: rgb(0, 0, 0);
     padding: 10px;
     font-family: arial;
 }
@@ -39,7 +39,7 @@ a {
 
 /* main container area beneath menu */
 main {
-    background: rgba(12, 127, 142, 0.852);
+    background: rgba(18, 97, 170, 0.852);
     display: flex;
 }
 .sidebar {
@@ -56,7 +56,7 @@ main {
 
 /* portfolio styles */
 #interests {
-    border: 4px rgb(6, 251, 255) ridge;
+    border: 4px rgb(1, 11, 11) ridge;
     padding: 8px;
 }
 h2, h3 {
